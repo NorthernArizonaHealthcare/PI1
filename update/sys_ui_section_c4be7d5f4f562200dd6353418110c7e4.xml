@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="c4be7d5f4f562200dd6353418110c7e4" sys_domain="global" table="x_76374_pi_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>process_flow_conditional.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>8dff92e14f222200dd6353418110c750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Request Process Flow">77ae7d5f4f562200dd6353418110c7c4</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>01ff92e14f222200dd6353418110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>81ff92e14f222200dd6353418110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>05ff92e14f222200dd6353418110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>caller</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>85ff92e14f222200dd6353418110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>09ff92e14f222200dd6353418110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>89ff92e14f222200dd6353418110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>0dff92e14f222200dd6353418110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>8dff92e14f222200dd6353418110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>01ff92e14f222200dd6353418110c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>81ff92e14f222200dd6353418110c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>05ff92e14f222200dd6353418110c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>qualification_group</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>85ff92e14f222200dd6353418110c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>09ff92e14f222200dd6353418110c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>89ff92e14f222200dd6353418110c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_vendor</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>0dff92e14f222200dd6353418110c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor_reference</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>8dff92e14f222200dd6353418110c752</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>initiated_from</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>01ff92e14f222200dd6353418110c753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>billable</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>81ff92e14f222200dd6353418110c753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>05ff92e14f222200dd6353418110c753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>85ff92e14f222200dd6353418110c753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>09ff92e14f222200dd6353418110c753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>secure_notes</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>89ff92e14f222200dd6353418110c753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>0dff92e14f222200dd6353418110c753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>8dff92e14f222200dd6353418110c753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_management_task</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>01ff92e14f222200dd6353418110c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="SM request client utils">527033c9c310020055d9db1122d3ae79</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_description</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>81ff92e14f222200dd6353418110c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_alignment</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>05ff92e14f222200dd6353418110c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_alignment_description</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>85ff92e14f222200dd6353418110c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_type</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>09ff92e14f222200dd6353418110c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_resources</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>89ff92e14f222200dd6353418110c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_resources_who</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>0dff92e14f222200dd6353418110c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_cost</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>8dff92e14f222200dd6353418110c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_cost_estimate</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>01ff92e14f222200dd6353418110c755</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checklist_it_review</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>81ff92e14f222200dd6353418110c755</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checklist_revenue_review</element>
+            <position>35</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>41ffd2254f222200dd6353418110c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checklist_construction_review</element>
+            <position>36</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>c1ffd2254f222200dd6353418110c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checklist_vendor_review</element>
+            <position>37</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>45ffd2254f222200dd6353418110c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checklist_location</element>
+            <position>38</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>c5ffd2254f222200dd6353418110c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checklist_vendor_who</element>
+            <position>39</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>49ffd2254f222200dd6353418110c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checklist_vendor_contract</element>
+            <position>40</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>c9ffd2254f222200dd6353418110c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checklist_new_group</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>4dffd2254f222200dd6353418110c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>budget_budgeted</element>
+            <position>42</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>cdffd2254f222200dd6353418110c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>budget_type</element>
+            <position>43</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>41ffd2254f222200dd6353418110c7f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>budget_amount</element>
+            <position>44</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>c1ffd2254f222200dd6353418110c7f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>budget_cost_center</element>
+            <position>45</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>45ffd2254f222200dd6353418110c7f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>budget_source</element>
+            <position>46</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>c5ffd2254f222200dd6353418110c7f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checklist_resources</element>
+            <position>47</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>49ffd2254f222200dd6353418110c7f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>capital_sponsor</element>
+            <position>48</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>c9ffd2254f222200dd6353418110c7f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>capital_cost</element>
+            <position>49</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>4dffd2254f222200dd6353418110c7f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>capital_life_expectancy</element>
+            <position>50</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>cdffd2254f222200dd6353418110c7f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_project_name</element>
+            <position>51</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>41ffd2254f222200dd6353418110c7fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_sponsor</element>
+            <position>52</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>c1ffd2254f222200dd6353418110c7fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_owner</element>
+            <position>53</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>45ffd2254f222200dd6353418110c7fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_roi</element>
+            <position>54</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>c5ffd2254f222200dd6353418110c7fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_validated_roi</element>
+            <position>55</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>49ffd2254f222200dd6353418110c7fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_what</element>
+            <position>56</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>c9ffd2254f222200dd6353418110c7fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_why</element>
+            <position>57</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>4dffd2254f222200dd6353418110c7fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_if_not</element>
+            <position>58</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>cdffd2254f222200dd6353418110c7fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_how</element>
+            <position>59</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>41ffd2254f222200dd6353418110c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_alignment</element>
+            <position>60</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>c1ffd2254f222200dd6353418110c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_impacted_groups</element>
+            <position>61</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>45ffd2254f222200dd6353418110c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_team</element>
+            <position>62</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>c5ffd2254f222200dd6353418110c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charter_communication_strategy</element>
+            <position>63</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-18 19:58:15</sys_created_on>
+            <sys_id>49ffd2254f222200dd6353418110c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-18 19:58:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_type</element>
+            <position>64</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-19 20:11:38</sys_created_on>
+            <sys_id>c79cef754f662200dd6353418110c73d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_76374_pi_request" sys_domain="global" view="Default view">c4be7d5f4f562200dd6353418110c7e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-19 20:11:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_76374_pi_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-11 17:46:35</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4be7d5f4f562200dd6353418110c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_76374_pi_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PI" source="x_76374_pi">f78e3d1f4f562200dd6353418110c7b8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PI">f78e3d1f4f562200dd6353418110c7b8</sys_scope>
+            <sys_update_name>sys_ui_section_c4be7d5f4f562200dd6353418110c7e4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-11 17:46:35</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config">
+    <sm_config action="INSERT_OR_UPDATE">
+        <accept_reject>false</accept_reject>
+        <active>true</active>
+        <admin_role display_value="x_76374_pi_admin" name="x_76374_pi_admin">289ef95f4f562200dd6353418110c7d7</admin_role>
+        <agent_role display_value="x_76374_pi_agent" name="x_76374_pi_agent">a49ef95f4f562200dd6353418110c7d8</agent_role>
+        <app_name>pi</app_name>
+        <approval>false</approval>
+        <approval_workflow display_value="Approval Workflow for SM">da95b573d7322100bbc783e80e610360</approval_workflow>
+        <approver_role display_value="x_76374_pi_approver_user" name="x_76374_pi_approver_user">249ef95f4f562200dd6353418110c7d9</approver_role>
+        <associated_task_tables/>
+        <auto_dispatch>false</auto_dispatch>
+        <basic_role display_value="x_76374_pi_basic" name="x_76374_pi_basic">a09ef95f4f562200dd6353418110c7da</basic_role>
+        <catalog display_value="Process Improvement Catalog">67ae7d5f4f562200dd6353418110c7ba</catalog>
+        <created_with_version>Helsinki: 08-27-2016_1002</created_with_version>
+        <disabled_processes/>
+        <dispatch_group_type display_value="pi_dispatch">ee9e3d5f4f562200dd6353418110c74f</dispatch_group_type>
+        <dispatch_queue>false</dispatch_queue>
+        <dispatcher_role display_value="x_76374_pi_dispatcher" name="x_76374_pi_dispatcher">209ef95f4f562200dd6353418110c7db</dispatcher_role>
+        <follow_the_sun_priority>{value:,type:,display:}</follow_the_sun_priority>
+        <geolocation_maps>false</geolocation_maps>
+        <inbound_email>false</inbound_email>
+        <initiator_role display_value="x_76374_pi_initiator" name="x_76374_pi_initiator">ac9ef95f4f562200dd6353418110c7db</initiator_role>
+        <kbase display_value="PI Knowledge">ebae7d5f4f562200dd6353418110c7be</kbase>
+        <knowledge_base>true</knowledge_base>
+        <limit_by_location>false</limit_by_location>
+        <main_model_category display_value="PI Request Template">a2ae3d5f4f562200dd6353418110c7e4</main_model_category>
+        <main_model_table>x_76374_pi_request_template</main_model_table>
+        <main_state_flow_table>x_76374_pi_sf_request</main_state_flow_table>
+        <main_table>x_76374_pi_request</main_table>
+        <managed_docs>true</managed_docs>
+        <mandatory_work_notes>false</mandatory_work_notes>
+        <name>PI</name>
+        <part_requirement>false</part_requirement>
+        <property_prefix>x_76374_pi</property_prefix>
+        <qualification>false</qualification>
+        <qualification_group_type/>
+        <qualifier_role/>
+        <read_role display_value="x_76374_pi_read" name="x_76374_pi_read">2c9ef95f4f562200dd6353418110c7dc</read_role>
+        <request_dispatch_method>manual</request_dispatch_method>
+        <request_dispatch_workflow display_value="Request Assignment Workflow for SM">879cca02d7100200e5eb83e80e6103fc</request_dispatch_workflow>
+        <request_driven>true</request_driven>
+        <rollup_work_notes>true</rollup_work_notes>
+        <service_catalog>true</service_catalog>
+        <surveys/>
+        <sys_class_name>sm_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-11 17:46:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b0bebd5f4f562200dd6353418110c72b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PI</sys_name>
+        <sys_package display_value="PI" source="x_76374_pi">f78e3d1f4f562200dd6353418110c7b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PI">f78e3d1f4f562200dd6353418110c7b8</sys_scope>
+        <sys_update_name>sm_config_b0bebd5f4f562200dd6353418110c72b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-19 17:22:09</sys_updated_on>
+        <task_activities>false</task_activities>
+        <task_dispatch_method>manual</task_dispatch_method>
+        <task_dispatch_workflow display_value="Assignment Workflow for SM">e1865971d7132100bbc783e80e610365</task_dispatch_workflow>
+        <task_model_category display_value="PI Task Template">26ae3d5f4f562200dd6353418110c7e4</task_model_category>
+        <task_model_table>x_76374_pi_task_template</task_model_table>
+        <task_state_flow_table>x_76374_pi_sf_task</task_state_flow_table>
+        <task_table>x_76374_pi_task</task_table>
+        <task_work_group_type/>
+        <templates_to_catalog>true</templates_to_catalog>
+        <track_travel>false</track_travel>
+        <use_consistent_assignment>false</use_consistent_assignment>
+        <use_follow_the_sun>false</use_follow_the_sun>
+        <use_location>false</use_location>
+        <use_schedule>false</use_schedule>
+        <use_sf>false</use_sf>
+        <use_skill>all</use_skill>
+        <use_timezone>false</use_timezone>
+        <user_created>true</user_created>
+        <vendor_group_type display_value="pi_vendor">629e3d5f4f562200dd6353418110c750</vendor_group_type>
+        <work_group_type display_value="pi">6e9e3d5f4f562200dd6353418110c74f</work_group_type>
+    </sm_config>
+</record_update>

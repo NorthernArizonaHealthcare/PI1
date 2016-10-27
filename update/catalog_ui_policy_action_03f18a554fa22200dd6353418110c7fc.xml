@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Projects and/or Capital Requests">709ff72f4f522200dd6353418110c724</catalog_item>
+        <catalog_variable>IO:559f3fef4f522200dd6353418110c7ba</catalog_variable>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-17 23:09:01</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>03f18a554fa22200dd6353418110c7fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>checklist_new_group</sys_name>
+        <sys_package display_value="PI" source="x_76374_pi">f78e3d1f4f562200dd6353418110c7b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PI">f78e3d1f4f562200dd6353418110c7b8</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_03f18a554fa22200dd6353418110c7fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-17 23:09:01</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Caller_is_auth = yes">043182554fa22200dd6353418110c7c6</ui_policy>
+        <variable>checklist_new_group</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

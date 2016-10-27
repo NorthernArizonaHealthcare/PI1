@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3ec5033d4f262200dd6353418110c7e2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config_module">
+    <sm_config_module action="INSERT_OR_UPDATE">
+        <app_name display_value="PI">b0bebd5f4f562200dd6353418110c72b</app_name>
+        <aspect>approval</aspect>
+        <associated_mobile_module/>
+        <associated_module display_value="My Approvals">72c5033d4f262200dd6353418110c7e2</associated_module>
+        <on>true</on>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2016-10-19 17:22:04</sys_created_on>
+        <sys_id>3ec5033d4f262200dd6353418110c7e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-10-19 17:22:04</sys_updated_on>
+    </sm_config_module>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2016-10-19 17:22:06</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>9fc5433d4f262200dd6353418110c705</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PI</sys_name>
+        <sys_package display_value="PI" source="x_76374_pi">f78e3d1f4f562200dd6353418110c7b8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PI">f78e3d1f4f562200dd6353418110c7b8</sys_scope>
+        <sys_update_name>sys_metadata_link_9fc5433d4f262200dd6353418110c705</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-10-19 17:22:06</sys_updated_on>
+        <tablename>sm_config_module</tablename>
+    </sys_metadata_link>
+</record_update>

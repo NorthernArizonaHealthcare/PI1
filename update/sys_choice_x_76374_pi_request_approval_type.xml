@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="approval_type" table="x_76374_pi_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project</label>
+            <language>en</language>
+            <name>x_76374_pi_request</name>
+            <sequence/>
+            <sys_class_name>sys_choice</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-19 20:12:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52ace3b54f662200dd6353418110c7b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-19 20:12:10</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>100 Day</label>
+            <language>en</language>
+            <name>x_76374_pi_request</name>
+            <sequence/>
+            <sys_class_name>sys_choice</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-19 20:12:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7fbce3b54f662200dd6353418110c7b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-19 20:12:26</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>approval_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>100 Day Help</label>
+            <language>en</language>
+            <name>x_76374_pi_request</name>
+            <sequence/>
+            <sys_class_name>sys_choice</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-19 20:12:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7ccab754f662200dd6353418110c76e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-19 20:12:39</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>approval_type</element>
+            <name>x_76374_pi_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-10-19 20:12:10</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3abce3b54f662200dd6353418110c785</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>approval_type</sys_name>
+            <sys_package display_value="PI" source="x_76374_pi">f78e3d1f4f562200dd6353418110c7b8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PI">f78e3d1f4f562200dd6353418110c7b8</sys_scope>
+            <sys_update_name>sys_choice_x_76374_pi_request_approval_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-10-19 20:12:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

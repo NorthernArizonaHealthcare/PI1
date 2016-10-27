@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_76374_pi_request" label="PI Request Project" max_length="40" name="x_76374_pi_request_project" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Approval type" max_length="40" name="approval_type" type="string">
+            <choice/>
+        </element>
+        <element attributes="omit_sys_original=true" label="Budget amount" max_length="15" name="budget_amount" type="currency"/>
+        <element choice="1" label="Budget budgeted" max_length="40" name="budget_budgeted" type="boolean">
+            <choice/>
+        </element>
+        <element choice="1" label="Budget cost center" max_length="32" name="budget_cost_center" reference="cmn_cost_center" type="reference">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Budget source" max_length="100" name="budget_source" type="string"/>
+        <element choice="1" label="Budget type" max_length="40" name="budget_type" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Capital cost" max_length="40" name="capital_cost" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Capital life expectancy" max_length="40" name="capital_life_expectancy" type="boolean">
+            <choice/>
+        </element>
+        <element label="Capital sponsor" max_length="32" name="capital_sponsor" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Charter alignment" max_length="4000" name="charter_alignment" reference="u_nah_pillar_alignment" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Charter communication strategy" max_length="1000" name="charter_communication_strategy" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Charter how" max_length="1000" name="charter_how" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Charter if not" max_length="1000" name="charter_if_not" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Charter impacted groups" max_length="500" name="charter_impacted_groups" type="string"/>
+        <element label="Charter owner" max_length="32" name="charter_owner" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Charter project name" max_length="100" name="charter_project_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Charter roi" max_length="1000" name="charter_roi" type="string"/>
+        <element label="Charter sponsor" max_length="32" name="charter_sponsor" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Charter team" max_length="500" name="charter_team" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Charter validated roi" max_length="1000" name="charter_validated_roi" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Charter what" max_length="1000" name="charter_what" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Charter why" max_length="1000" name="charter_why" type="string"/>
+        <element choice="1" label="Checklist construction review" max_length="40" name="checklist_construction_review" type="boolean">
+            <choice/>
+        </element>
+        <element choice="1" label="Checklist it review" max_length="40" name="checklist_it_review" type="boolean">
+            <choice/>
+        </element>
+        <element choice="1" label="Checklist location" max_length="40" name="checklist_location" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Checklist new group" max_length="40" name="checklist_new_group" type="boolean">
+            <choice/>
+        </element>
+        <element choice="1" label="Checklist resources" max_length="40" name="checklist_resources" type="boolean">
+            <choice/>
+        </element>
+        <element choice="1" label="Checklist revenue review" max_length="40" name="checklist_revenue_review" type="boolean">
+            <choice/>
+        </element>
+        <element choice="1" label="Checklist vendor contract" max_length="40" name="checklist_vendor_contract" type="boolean">
+            <choice/>
+        </element>
+        <element choice="1" label="Checklist vendor review" max_length="40" name="checklist_vendor_review" type="boolean">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Checklist vendor who" max_length="100" name="checklist_vendor_who" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Idea alignment" max_length="4000" name="idea_alignment" reference="u_nah_pillar_alignment" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Idea alignment description" max_length="1000" name="idea_alignment_description" type="string"/>
+        <element choice="1" label="Idea cost" max_length="40" name="idea_cost" type="boolean">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Idea cost estimate" max_length="100" name="idea_cost_estimate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Idea description" max_length="4000" name="idea_description" type="string"/>
+        <element choice="1" label="Idea resources" max_length="40" name="idea_resources" type="boolean">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Idea resources who" max_length="1000" name="idea_resources_who" type="string"/>
+        <element choice="1" label="Idea type" max_length="40" name="idea_type" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
